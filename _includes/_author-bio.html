@@ -23,13 +23,10 @@
     <span>🦄</span> Special<br>
   </p>
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-links" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+  {% if author.instagram %}<a href="http://instagram.com/{{ author.instagram }}" class="author-links" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>{% endif %}
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-links" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
   {% if author.github %}<a href="http://github.com/{{ author.github }}" class="author-links" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>{% endif %}
-  {% if author.facebook %}<a href="http://facebook.com/{{ author.facebook }}" class="author-links" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
-  {% if author.google.plus %}<a href="http://plus.google.com/+{{ author.google.plus }}" class="author-links" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
-  {% if author.linkedin %}<a href="http://linkedin.com/in/{{ author.linkedin }}" class="author-links" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
-  {% if author.xing %}<a href="http://www.xing.com/profile/{{ author.xing }}" class="author-links" target="_blank"><i class="fa fa-fw fa-xing-square"></i> XING</a>{% endif %}
-  {% if author.instagram %}<a href="http://instagram.com/{{ author.instagram }}" class="author-links" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>{% endif %}
+  {% if author.linkedin %}<a href="http://linkedin.com/in/{{ author.linkedin }}" class="author-links" target="_blank"><i class="fa fa-fw fa-linkedin"></i> LinkedIn</a>{% endif %}
   {% if author.tumblr %}<a href="http://{{ author.tumblr }}.tumblr.com" class="author-links" target="_blank"><i class="fa fa-fw fa-tumblr-square"></i> Tumblr</a>{% endif %}
   {% if author.stackoverflow %}<a href="http://stackoverflow.com/users/{{ author.stackoverflow }}" class="author-links" target="_blank"><i class="fa fa-fw fa-stack-overflow"></i> Stackoverflow</a>{% endif %}
   {% if author.speakerdeck %}<a href="http://speakerdeck.com/{{ author.speakerdeck }}" class="author-links" target="_blank"><i class="fa fa-speaker-deck"></i> Speaker Deck</a>{% endif %}
