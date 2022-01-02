@@ -101,7 +101,7 @@ It is hard to dislike the guy because he was the foremost philanthropist. Rockef
 
 ### [The Phoenix Project](https://www.amazon.com/o/ASIN/0988262592/parpaspod-20) by Gene Kim
 
-A very interestingly written book. It's not your typical software manager book full of dry advice, but instead follows Bill, who became a VP of IT Operations overnight and inherited a department in disarray. We follow the narrative o Bill through his eyes in a novel form. Not novel like new, but novel like, well, novel. It reads in a very different way, so it also hits differently.
+A very interestingly written book. It's not your typical software manager book full of dry advice, but instead follows Bill, who became a VP of IT Operations overnight and inherited a department in disarray. We follow the narrative of Bill through his eyes in a novel form. Not novel like new, but novel like, well, novel. It reads in a very different way, so it also hits differently.
 
 The book reminded me of several instances from my career, and I honestly can not recommend it enough if you work in the field.
 
