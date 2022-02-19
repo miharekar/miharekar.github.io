@@ -32,11 +32,13 @@ I'm not saying I'm going to follow through. But I did for Facebook. And I'm a ha
 
 I'm not saying you should do the same. **Not at all**. This is my blog, and this is a very personal opinion. Maybe you agree, probably not. Nothing wrong with that. Diversity of opinions makes for exciting discussions.
 
-But maybe think about your usage of social networks. Look into your _Screen Time_ stats. Think about how they make you feel. And if it's not predominantly positive, well then, _maybe_ do something about that.
+But think about your usage of social networks. Look into your _Screen Time_ stats. Think about how they make you feel. And if it's **not** predominantly positive, well then, _maybe_ **do something about that**.
 
-For example, I spend a lot of my time on [Instagram](http://instagram.com/miharekar/). But I enjoy it because I use it in quite unusual way. I follow very few people, almost no brands or influencers, and frequently trim my following list. I also mute stories of many people if they post many of them. Now you might say: "but you post a lot of stories yourself." And yes, you're right. I'd probably mute myself if I were to follow me. 😂
+For example, I spend a lot of my time on [Instagram](http://instagram.com/miharekar/). But I enjoy it because I use it in quite unusual way. I follow very few people, almost no brands or _influencers_, and frequently trim my following list. I also mute stories of people when they post many of them. Now you might say: "but you post a lot of stories yourself." And yes, you're right. I'd probably mute myself if I were to follow me. 😂
 
-I post stories of everything interesting that's happening throughout my day. But those are things that _I_ find interesting. Many other people likely don't. But I don't make many posts. The ones that I do are photos that I really like and are often accompanied by lengthy, well-written[^2] captions.
+I post stories of everything interesting that's happening throughout my day. But those are things that _I_ find interesting. Many other people likely don't. And I don't make many posts. The ones that I do are photos that I really like and are often accompanied by lengthy, well-written[^2] captions.
+
+So while my Instagram usage numbers are high, they also _bring me joy_, so I don't plan to do anything about them. I can't say the same for my Twitter usage lately.
 
 Let me leave you with one of my favorite _Seneca_ quotes:
 
