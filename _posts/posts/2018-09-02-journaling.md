@@ -29,7 +29,7 @@ Now all I had to do is change the very well designed physical journal into a Day
 
 I made a nicely formatted **Morning Routine** and **Evening Routine**, but it was missing one more thing. The physical 5 minute journal has a nice quote to start every day and I wanted that as well. Since I'm interested in what stoic philosophers have to say, I of course wanted their quotes. I didn't find any service that would provide an API with a random stoic quote so it meant I had to make it myself.
 
-There are many websites with quotes but few as maintained as [Goodreads](https://www.goodreads.com/). I made a [simple and stupid Ruby script](https://gist.github.com/mrfoto/31420d5ecc7373bf0f58ec23cc0be81c#file-quotes-rb) that got all quotes from **Seneca**, **Marcus Aurelius**, **Epictetus**, and **Zeno of Citium**. Turns out, Workflow can parse JSON files, so I stored the result as `quotes.json` inside Workflow folder in iCloud Drive. Now I could read the file, take a random item, and use it as a quote.
+There are many websites with quotes but few as maintained as [Goodreads](https://www.goodreads.com/). I made a [simple and stupid Ruby script](https://gist.github.com/miharekar/31420d5ecc7373bf0f58ec23cc0be81c#file-quotes-rb) that got all quotes from **Seneca**, **Marcus Aurelius**, **Epictetus**, and **Zeno of Citium**. Turns out, Workflow can parse JSON files, so I stored the result as `quotes.json` inside Workflow folder in iCloud Drive. Now I could read the file, take a random item, and use it as a quote.
 
 <figure class="third">
   <img src="/images/posts/2018-09-02/morning.jpg" title="Morning Routine_">
@@ -39,7 +39,7 @@ There are many websites with quotes but few as maintained as [Goodreads](https:/
 
 I've been practicing the routine for about a week now. I haven't noticed any significant life quality improvements yet, but I do enjoy the workflows I made, and the end results inside Day One very much.
 
-Feel free to use and adapt my workflows as you see fit: [quotes](https://gist.githubusercontent.com/mrfoto/d57b58b017c457cd18062a1c36d82e02/raw/05211099c1843a19f2f073b4279fc3dfacacbbe4/quotes.json), [Morning Routine](https://workflow.is/workflows/c7881569dca545579b3cb121a9c1d212), and [Evening Routine](https://workflow.is/workflows/91efd3d3e26a49b081082daccac85f73).
+Feel free to use and adapt my workflows as you see fit: [quotes](https://gist.githubusercontent.com/miharekar/d57b58b017c457cd18062a1c36d82e02/raw/05211099c1843a19f2f073b4279fc3dfacacbbe4/quotes.json), [Morning Routine](https://workflow.is/workflows/c7881569dca545579b3cb121a9c1d212), and [Evening Routine](https://workflow.is/workflows/91efd3d3e26a49b081082daccac85f73).
 
 If you have _any thoughts_, let me know in the comments or on [Twitter](https://twitter.com/MihaRekar). I'd love to talk about stoicism, journaling, or Workflow.
 

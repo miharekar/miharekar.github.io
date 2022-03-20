@@ -7,7 +7,7 @@ tags: [ruby, rails, gems, pipeline, precompile, precompilation, asset pipeline, 
 comments: true
 ---
 
-I've spent a good hour debugging why the **.svg** file from my [swipebox gem](https://github.com/mrfoto/swipebox) wasn't being precompiled by the **Rails Asset Pipeline**. I'm still not sure why, because it works with .svg fonts but for some reason it didn't want to "grab" the swipebox-icons.svg file.
+I've spent a good hour debugging why the **.svg** file from my [swipebox gem](https://github.com/miharekar/swipebox) wasn't being precompiled by the **Rails Asset Pipeline**. I'm still not sure why, because it works with .svg fonts but for some reason it didn't want to "grab" the swipebox-icons.svg file.
 
 The way I solved is I added an **initializer** to my Engine class which adds all the images (just in case) to the `config.assets.precompile` setting:
 

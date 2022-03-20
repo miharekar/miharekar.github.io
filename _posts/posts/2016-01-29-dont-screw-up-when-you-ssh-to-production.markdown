@@ -19,7 +19,7 @@ Notice that the tab and profile color change the moment I `ssh` to the server. A
 
 I'm on a Mac using the fantastic [iTerm2](anything and everything that has textboxes) with [oh-my-zsh](http://ohmyz.sh/) but with a bit of *googling* you can modify the following script to work for your setup as well.
 
-<script src="https://gist.github.com/mrfoto/c6072e4fede3a6fe0f6b.js"></script>
+<script src="https://gist.github.com/miharekar/c6072e4fede3a6fe0f6b.js"></script>
 
 OK, so what do we have here? Basically we alias `ssh` with `colorssh`. And that one checks if the server we're connecting to is one of the production ones (in this sample script they are `web*`, `production`, and `ec2-.*compute-1`). If that is the case then it changes iTerm2 profile to `SSH` and tab color to red.
 
