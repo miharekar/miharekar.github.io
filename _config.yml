@@ -7,8 +7,8 @@ enforce_ssl: mr.si
 
 # Jekyll configuration
 
-permalink:   pretty
-markdown:    kramdown
+permalink: pretty
+markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
@@ -31,18 +31,34 @@ owner:
   avatar: miha-rekar.jpg
   email: info@mr.si
   disqus-shortname: miharekar
-  twitter: MihaRekar
   google:
     analytics: UA-356422-1
     verify:
     ad-client:
     ad-slot:
-  bing-verify:
   github: miharekar
   linkedin: miha-rekar
   instagram: MihaRekar
-  youtube: MihaRekar
-  speakerdeck: mrfoto
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude:
+  [
+    "lib",
+    "config.rb",
+    "Capfile",
+    "config",
+    "log",
+    "Rakefile",
+    "Rakefile.rb",
+    "tmp",
+    "less",
+    "test",
+    "spec",
+    "Gruntfile.js",
+    "package.json",
+    "node_modules",
+    "Gemfile",
+    "Gemfile.lock",
+    "LICENSE",
+    "README.md",
+  ]
