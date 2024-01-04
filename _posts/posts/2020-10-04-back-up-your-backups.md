@@ -59,7 +59,7 @@ The next day Drobo is still shuffling data around, but things are looking good. 
   <img src="/images/posts/2020-10-04/drobo_status.jpg">
 </figure>
 
-I go for a run, drive for a lunch, have an overall enjoyable Sunday, and put some Netflix on in the evening. Then I hear some massive disk activity going on again. Nothing to worry, maybe [Time Machine](https://en.wikipedia.org/wiki/Time_Machine_(macOS)) is doing its thing. But it doesn’t die down. So, I go and check. **YOU GOTTA BE KIDDING ME**. The new drive that I got just failed and turn red. Drobo is again out of space and trying to move data around to protect it. I panic and turn it off.
+I go for a run, drive for a lunch, have an overall enjoyable Sunday, and put some Netflix on in the evening. Then I hear some massive disk activity going on again. Nothing to worry, maybe [Time Machine](<https://en.wikipedia.org/wiki/Time_Machine_(macOS)>) is doing its thing. But it doesn’t die down. So, I go and check. **YOU GOTTA BE KIDDING ME**. The new drive that I got just failed and turn red. Drobo is again out of space and trying to move data around to protect it. I panic and turn it off.
 
 About a week later I get Seagate replacement drives. They replaced it with refurbished ones. Which is understandable, but concerning when it comes to hard drives. Still, I stick them in, turn the Drobo back on, and 2 days later everything is green again and I have the same drive capacity as I did before.
 
@@ -69,7 +69,7 @@ About a week later I get Seagate replacement drives. They replaced it with refur
 
 A week passes. Two weeks. I almost feel like nothing happened and everything is back to normal. Then I hear some rumblings and a red light. Another drive failure. One of the replacement ones.
 
-I take a deep breath and start writing a message to Drobo support. One drive failing? OK. Two? Yeah, I guess they’re from the same series. The third one? A brand-new one? Just after a day? OK, blame it on the U curve[^2]. But a brand-new replacement one? Which was surely thoroughly tested by the Seagate factory before sending it out **as a replacement**?  That **has to be** a device issue.
+I take a deep breath and start writing a message to Drobo support. One drive failing? OK. Two? Yeah, I guess they’re from the same series. The third one? A brand-new one? Just after a day? OK, blame it on the U curve[^2]. But a brand-new replacement one? Which was surely thoroughly tested by the Seagate factory before sending it out **as a replacement**? That **has to be** a device issue.
 
 We go back and forth, I provide all the logs and exports, and they are certain it’s not the device, but the disks. Which all makes sense but I’m still unconvinced. I explain that I’ve completely lost faith in this device and that I’m afraid of losing my data. They understand and come through and send me a replacement Drobo.
 
@@ -93,6 +93,6 @@ Digital data doesn’t take any physical space but it can hold immense emotional
 
 What happened to me is extremely unlikely. But it can happen. It did happen. I was prepared[^3]. Are you?
 
-[^1]:	Smartphones are computers too. They’re [more powerful as well](https://twitter.com/dhh/status/1174802413548474368) 😅
-[^2]:	Hard disks (and pretty much all other devices) follow a U shaped failure rate. They either die when they’re brand new, or they die after they’ve been at it for a long timee.
-[^3]:	physically, not emotionally though
+[^1]: Smartphones are computers too. They’re [more powerful as well](https://twitter.com/dhh/status/1174802413548474368) 😅
+[^2]: Hard disks (and pretty much all other devices) follow a U shaped failure rate. They either die when they’re brand new, or they die after they’ve been at it for a long timee.
+[^3]: physically, not emotionally though

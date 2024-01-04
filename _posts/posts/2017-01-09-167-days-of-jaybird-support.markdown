@@ -15,7 +15,7 @@ First a quick backstory - I wanted to get bluetooth headphones for running. Afte
 
 On 16th of July I experienced an issue around the 20k mark of my run. The right earbud became silent. I wiggled it in my ear and got it working to approximately half the volume. I turned them off, tried them on different devices, but the problem persisted. So I contacted the support.
 
-*A week later* I receive an automated email that they are "undergoing a system migration to help improve the Customer Experience". They were migrating their support because [Logitech bought them](http://blog.logitech.com/2016/04/12/music-just-got-better/) 3 months ago. Understandable. I guess. Next day I receive an email where I am to indicate how satisfied I am with the support I have received. Wat!? I haven't received any support yet. So I reply to the email and let them know that. About 2 weeks later I turn to Twitter:
+_A week later_ I receive an automated email that they are "undergoing a system migration to help improve the Customer Experience". They were migrating their support because [Logitech bought them](http://blog.logitech.com/2016/04/12/music-just-got-better/) 3 months ago. Understandable. I guess. Next day I receive an email where I am to indicate how satisfied I am with the support I have received. Wat!? I haven't received any support yet. So I reply to the email and let them know that. About 2 weeks later I turn to Twitter:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The worst support ever award probably goes to <a href="https://twitter.com/jaybirdsport">@jaybirdsport</a> - it&#39;s been a month and I still haven&#39;t heard back</p>&mdash; Miha Rekar (@mr_foto) <a href="https://twitter.com/mr_foto/status/762560423782744065">August 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -75,11 +75,11 @@ One week later:
 
 Can't say I wasn't expecting this. But now they offered me X2 **and** Freedom[^2] even though they explicitly said earlier they can't cancel a refund-in-progress. It's now 156 days since my original request and 118 day since I destroyed the product. I just want this story to end. I go for that option.
 
-A week later they ship them and on **December 30th** I receive my replacement X2[^3] and a *brand new Freedom*. That concludes my half year long journey with Jaybird Support. Sure, I got brand new Freedoms free of charge, but I would trade them **any day** for a speedier support response.
+A week later they ship them and on **December 30th** I receive my replacement X2[^3] and a _brand new Freedom_. That concludes my half year long journey with Jaybird Support. Sure, I got brand new Freedoms free of charge, but I would trade them **any day** for a speedier support response.
 
 ---
 
-All 6 months I've been looking for an alternative. Sadly nothing comes close to X2/X3 by specs not to mention reviews. So even though their support is horrible, I'm sticking with Jaybird. Their headphones are simply *in a league of their own*. That goes for both X2 and Freedom. I haven't tried X3 yet but judging by [reviews](https://www.youtube.com/watch?v=77aeW3bsCzc) they're even better than X2.
+All 6 months I've been looking for an alternative. Sadly nothing comes close to X2/X3 by specs not to mention reviews. So even though their support is horrible, I'm sticking with Jaybird. Their headphones are simply _in a league of their own_. That goes for both X2 and Freedom. I haven't tried X3 yet but judging by [reviews](https://www.youtube.com/watch?v=77aeW3bsCzc) they're even better than X2.
 
 So if you're in the market for wireless and/or sport headphones I can't recommend Jaybird enough. Hopefully support will improve as well once Logitech integrates them fully in their system.
 
@@ -87,4 +87,4 @@ Let me know.
 
 [^1]: I switched to [N26](https://n26.com/) - it's awesome!
 [^2]: Similar but smaller, fancier, and more expensive
-[^3]: In a different color because *Charge* wasn't in stock
+[^3]: In a different color because _Charge_ wasn't in stock

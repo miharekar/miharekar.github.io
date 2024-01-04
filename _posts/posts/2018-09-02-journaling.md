@@ -17,7 +17,7 @@ About a week ago, [Day One released a major new version](http://dayoneapp.com/20
 
 I went googling and I found the exact thing: [Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal). It's based on a very simple but scientifically confirmed notion:
 
->The Five Minute Journal is your secret weapon to focus on the good in your life, become more mindful, and live with intention. With a simple structured format based on positive psychology research, you will start and end each day with gratitude. Thousands who use the journal have seen increased happiness, better relationships, and have become more optimistic.
+> The Five Minute Journal is your secret weapon to focus on the good in your life, become more mindful, and live with intention. With a simple structured format based on positive psychology research, you will start and end each day with gratitude. Thousands who use the journal have seen increased happiness, better relationships, and have become more optimistic.
 
 You take 5 minutes in the morning to start your day on a positive note and set intention to make your day great. You take another 5 minutes before bedtime where you reflect on the good throughout your day, ensuring you end your day on a positive note.
 

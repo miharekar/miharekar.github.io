@@ -21,11 +21,11 @@ So I wanted to **showcase that**. In one small part to burst the stereotype bubb
 
 **Why don’t I do a talk on that**? Everything I love talking about - a _string of lightning talks_ if you will. [Ben Orenstein](http://www.benorenstein.com/) did [something like that](https://www.youtube.com/watch?v=l9JXH7JPjR4) on RailConf 2013 and it remains one of the best talks I've ever seen. So I wrote down a list of topics I love talking about[^4]. Then I started thinking about _transitions_ from one topic to the next and _eliminating_ those that didn't make sense. You can’t go from _coffee_ to _stoicism_ for example. Then I started a Keynote[^5] document with every topic as a _main slide_ with a couple of _bullet points_. Then those _bullet points_ became separate _sub-slides_. And then it was Friday. **Time to fly**. When will I rehearse this? _Fuck_. I guess we’ll test it in production 😬
 
-***
+---
 
 <iframe width="width:100%" src="https://www.youtube.com/embed/CZIZPKpsXdo" frameborder="0" allowfullscreen></iframe>
 
-***
+---
 
 You can’t hear it _well_ in the recording but when I said “thank you” there was a **roar of applause** that hit me. This has **never** happened to me before. It felt **amazing**. And after the talk I could _barely get a drink_ - everyone wanted to **talk to me**. Everyone found at least one thing in my talk they connected with. So while it was definitely the **weirdest** talk I ever gave it was also the most **fun** to give and by far the most **well received**. Even now, after it was posted on YouTube, I'm still getting a ton of positive feedback and follow-up questions.
 

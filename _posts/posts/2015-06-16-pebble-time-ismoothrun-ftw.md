@@ -46,11 +46,11 @@ I could go on for days. It's so amazing. And you can tell why by their tagline:
 
 > Programmed by runners, iSmoothRun is the app that we all wished for.
 
-It's as if all the other running apps were created by aliens imagining how people run and why/how would they use their apps. This one is the only one that just works. And makes perfect sense. Kudos, developers. And keep up the good work!  
+It's as if all the other running apps were created by aliens imagining how people run and why/how would they use their apps. This one is the only one that just works. And makes perfect sense. Kudos, developers. And keep up the good work!
 
 [^1]: To the left, to the left :point_left:
 [^2]: As of this writing
-[^3]: Click *Show me all the features!* if you dare :smile:
+[^3]: Click _Show me all the features!_ if you dare :smile:
 [^4]: I highly recommend [Polar H7](http://www.polar.com/us-en/products/accessories/H7_heart_rate_sensor)
 [^5]: Can't even begin to explain how awesome this is if you run both with and without headphones
 [^6]: I prefer Dropbox and from there [tapiriik](https://tapiriik.com/) takes over - old habits…

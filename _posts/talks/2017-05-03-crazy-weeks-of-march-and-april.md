@@ -74,13 +74,14 @@ My talk was the last talk of the day and I spoke about [Flame Graphs](http://www
 <iframe src="https://www.youtube.com/embed/6uKZXIwd6M0" frameborder="0" allowfullscreen></iframe>
 
 Sure there are tons of things I could still improve but I had a feeling it went well. And yesterday I got the confirmation of that - the organisers sent me all the feedbacks of my talk that they gathered. Pasted unedited:
+
 - Miha rocks.
 - Entertaining but the same. (I am also biased here.)
 - Inspiring to wide usage of Flame Graphs
 - I was tired by the end of the day, but this talk was very interesting to listen to.
-- Very clear and accesssible
+  - Very clear and accesssible
 - Not often you need to read flame graphs, but it is good to remember it. Useful.
-- thats awesome
+  - thats awesome
 
 Not too shabby.
 
@@ -93,7 +94,7 @@ Not too shabby.
 
 ## London Coffee Festival - April 12-15th
 
-As you know by now - [coffee is a huge passion of mine]((/posts/2016/04/26/in-quest-of-a-better-coffee/)). Which is why I went to one of the biggest coffee festivals in Europe - [London Coffee Festival](https://www.londoncoffeefestival.com/). Now I knew that London coffee scene is huge, but I had **no idea** how massive it really is. To give you some perspective: Lloyd from [The Coffee Roasters](https://thecoffeeroasters.co.uk/)[^14] gifted me a booklet called **The London Coffee Guide 2017**. It's the **definitive guide** to the **best independent coffee venues** in London[^15]. And that booklet _alone_ contains **245** venues. **245**!!! And for every one of them there's a detailed description of what espresso machine(s) they have, what grinder(s) they use, a little back story,…, **absolutely incredible**.
+As you know by now - [coffee is a huge passion of mine](<(/posts/2016/04/26/in-quest-of-a-better-coffee/)>). Which is why I went to one of the biggest coffee festivals in Europe - [London Coffee Festival](https://www.londoncoffeefestival.com/). Now I knew that London coffee scene is huge, but I had **no idea** how massive it really is. To give you some perspective: Lloyd from [The Coffee Roasters](https://thecoffeeroasters.co.uk/)[^14] gifted me a booklet called **The London Coffee Guide 2017**. It's the **definitive guide** to the **best independent coffee venues** in London[^15]. And that booklet _alone_ contains **245** venues. **245**!!! And for every one of them there's a detailed description of what espresso machine(s) they have, what grinder(s) they use, a little back story,…, **absolutely incredible**.
 
 Anyway, back to the festival. This thing was endless - there were over 250 stalls on 3 floors and every one of them was meticulously crafted. They were so well designed and fully stocked, everyone was so nice and friendly, it really was a magical experience.
 

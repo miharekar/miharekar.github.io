@@ -20,5 +20,5 @@ Short tech talk I did for my coworkers on Apache Thrift and then later at my loc
 ## Further read:
 
 - [Thrift Homepage](http://thrift.apache.org/)
-- [Thrift the Missing Guide]( http://diwakergupta.github.io/thrift-missing-guide/)
-- [Ruby Conf 2013 - A Lightweight SOA Framework using Ruby, Apache Thrift and AMQP]( https://www.youtube.com/watch?v=HTVoQ6_iVuc)
+- [Thrift the Missing Guide](http://diwakergupta.github.io/thrift-missing-guide/)
+- [Ruby Conf 2013 - A Lightweight SOA Framework using Ruby, Apache Thrift and AMQP](https://www.youtube.com/watch?v=HTVoQ6_iVuc)

@@ -18,7 +18,7 @@ First things first - I'm a Rails newbie. I've been messing with it for about 6 m
 #The gems
 
 ##[better_errors](https://github.com/charliesome/better_errors)
-Seriously can't develop without this one anymore. It replaces the standard Rails error page with a much better and more useful error page. You should also install [binding\_of\_caller](https://github.com/banister/binding\_of\_caller) which gives you REPL and local/instance variable inspection which is just awesome. You can also use it with Pry, just put this in your development.rb initializer:
+Seriously can't develop without this one anymore. It replaces the standard Rails error page with a much better and more useful error page. You should also install [binding_of_caller](https://github.com/banister/binding_of_caller) which gives you REPL and local/instance variable inspection which is just awesome. You can also use it with Pry, just put this in your development.rb initializer:
 
 ```ruby
 BetterErrors.use_pry!
@@ -28,20 +28,20 @@ AwesomePrint.defaults = { plain: true }
 ##[jazz_hands](https://github.com/nixme/jazz_hands)
 Now this is a collection gem - it includes many many many sweet gems:
 
-* [Pry](http://pry.github.com) for a powerful shell alternative to IRB.
-* [Awesome Print](https://github.com/michaeldv/awesome_print) for stylish pretty print.
-* [Hirb](https://github.com/cldwalker/hirb) for tabular collection output.
-* [Pry Rails](https://github.com/rweng/pry-rails) for additional commands (`show-routes`,
+- [Pry](http://pry.github.com) for a powerful shell alternative to IRB.
+- [Awesome Print](https://github.com/michaeldv/awesome_print) for stylish pretty print.
+- [Hirb](https://github.com/cldwalker/hirb) for tabular collection output.
+- [Pry Rails](https://github.com/rweng/pry-rails) for additional commands (`show-routes`,
   `show-models`, `show-middleware`) in the Rails console.
-* [Pry Doc](https://github.com/pry/pry-doc) to browse Ruby source, including C, directly from the
+- [Pry Doc](https://github.com/pry/pry-doc) to browse Ruby source, including C, directly from the
   console.
-* [Pry Git](https://github.com/pry/pry-git) to teach the console about git. Diffs, blames, and
+- [Pry Git](https://github.com/pry/pry-git) to teach the console about git. Diffs, blames, and
   commits on methods and classes, not just files.
-* [Pry Remote](https://github.com/Mon-Ouie/pry-remote) to connect remotely to a Pry console.
-* [Pry Debugger](https://github.com/nixme/pry-debugger) to turn the console into a simple debugger.
-* [Pry Stack Explorer](https://github.com/pry/pry-stack_explorer) to navigate the call stack and
+- [Pry Remote](https://github.com/Mon-Ouie/pry-remote) to connect remotely to a Pry console.
+- [Pry Debugger](https://github.com/nixme/pry-debugger) to turn the console into a simple debugger.
+- [Pry Stack Explorer](https://github.com/pry/pry-stack_explorer) to navigate the call stack and
   frames.
-* [Coolline](https://github.com/Mon-Ouie/coolline) and [Coderay](https://github.com/rubychan/coderay) for syntax highlighting as
+- [Coolline](https://github.com/Mon-Ouie/coolline) and [Coderay](https://github.com/rubychan/coderay) for syntax highlighting as
   you type.
 
 ##[bullet](https://github.com/flyerhzm/bullet)

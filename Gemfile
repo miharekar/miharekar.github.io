@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'github-pages'
-gem 'jekyll-compose', group: [:jekyll_plugins]
 gem "webrick"
+gem "csv"
+gem "jekyll"
+gem 'jekyll-target-blank'
+gem "github-pages"

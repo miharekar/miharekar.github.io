@@ -28,7 +28,7 @@ A couple of weeks ago I saw the announcement of Garmin fēnix 5[^4]. It's a spor
 
 But then - out of nowhere I see DC Rainmaker's[^8] [Forerunner 935 In-Depth Review](https://www.dcrainmaker.com/2017/03/garmin-forerunner-935-depth-review.html).
 
->So what’s the FR935 all about? Well in a nutshell it’s a cheaper version of the Fenix 5, with a plastic shell as opposed to metal. Basically – it could be named the Fenix 5P – for Plastic
+> So what’s the FR935 all about? Well in a nutshell it’s a cheaper version of the Fenix 5, with a plastic shell as opposed to metal. Basically – it could be named the Fenix 5P – for Plastic
 
 It's **150€** less and at **49g** almost _half_ the weight. Same battery life. Same vast feature set. Could this be my ideal smart[^9] watch? As soon as it was [available in Slovenia](http://agp.si/garmin-forerunner-935-crna.html) I had to get it to test it out. And let me tell you - **I love it**!
 
@@ -53,7 +53,7 @@ It's called [Forecast Line](https://apps.garmin.com/en-US/apps/6b9d2d26-d746-437
 
 At the time of writing it's out for just under 2 days and it already has over 400 downloads and 3 5-star reviews. I even got a user asking me for my PayPal so they can make a donation. And I got an email with this:
 
->I'm so happy someone has started developing for Garmin who actually cares about design.
+> I'm so happy someone has started developing for Garmin who actually cares about design.
 
 I couldn't have been happier. :blush:
 

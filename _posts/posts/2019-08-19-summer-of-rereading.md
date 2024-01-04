@@ -23,7 +23,7 @@ I’m delighted to say that they all measured up to the hype, and many of them g
 
 This is an absolute eye-opener of a book. It was mind-blowing the first time I read it and it was equally mind-blowing all these years later. The main point of the book? **Rewards don’t work**. Read that sentence again. I know what you’re thinking: _WTF, of course they work_. Well, turns out, they don’t. Not if you want anything but short-time obedience[^a038].
 
-It’s  insane how much evidence and research there is on long-term ineffectiveness of rewards. Yet most of us still hold the belief that when the rewards don’t work, it’s just that they were set up _wrongly_. If only the incentives were _different_, then we’d get the results we _want_. No one ever stops and ponders the validity of the claim that rewards work.
+It’s insane how much evidence and research there is on long-term ineffectiveness of rewards. Yet most of us still hold the belief that when the rewards don’t work, it’s just that they were set up _wrongly_. If only the incentives were _different_, then we’d get the results we _want_. No one ever stops and ponders the validity of the claim that rewards work.
 
 Which is bizarre, since most of us tend to agree that punishments don’t work. But rewards are just the other side of the same coin. Think about it: the last time when you didn’t get a reward you were promised - it felt like a punishment, didn’t it? Or, to put it in simpler terms, what’s between a carrot and a stick? **A donkey**. Do you want to treat your kids/employees like donkeys? I sure hope not.
 

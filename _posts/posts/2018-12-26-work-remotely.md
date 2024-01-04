@@ -7,7 +7,7 @@ tags: [remote, work, ergonomics, resolution, reflection, new year, interruptions
 comments: true
 ---
 
-As a year is coming to a close it usually triggers 2 things: old year’s **reflections** and new year’s **resolutions**. For most	 of us both of them involve our professional work. And one of the things that is gaining more and more popularity in these lists is remote work.
+As a year is coming to a close it usually triggers 2 things: old year’s **reflections** and new year’s **resolutions**. For most of us both of them involve our professional work. And one of the things that is gaining more and more popularity in these lists is remote work.
 
 I’ve been lucky enough to practice it for **over 4 years** already and in that time I’ve learnt a few things. What works, what doesn’t, why would you do it, why wouldn’t you, how would you do it,…. I also [spoke about it](/talks/2018/11/15/software-developers-are-people-too/) recently and got a ton of questions and emails afterwards. So I decided to write down those talk points and conversations and have them published for the whole world to consume.
 
@@ -47,17 +47,17 @@ The first and arguably the most important lesson: **separate work from the rest 
 
 **Ergonomics matter**. They matter **a lot**. Get yourself as good of an office chair as possible. All of the expensive ones come with 10+ year warranty so when you divide its price over years of usage it’s not that expensive. I bought [Herman Miller Aeron](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/) in 2012 and at that time it cost about as much as I made in a month. Almost 7 years later it still looks like new and it’s hands down one of the best purchases I ever made. For my health and for the look of the office.
 
-When buying a chair the most important thing is that you **try it out**. Not for *15 seconds* at the salon, but for *at least a week* at home. All of the respectable dealers and importers[^4] will be happy to lend you a chair to try out. There are a ton of “best office chair” lists on the internet so I’m not going to go into that. But you can’t go wrong by starting with [Herman Miller](https://www.hermanmiller.com/) or [Steelcase](https://www.steelcase.com/) lineup.
+When buying a chair the most important thing is that you **try it out**. Not for _15 seconds_ at the salon, but for _at least a week_ at home. All of the respectable dealers and importers[^4] will be happy to lend you a chair to try out. There are a ton of “best office chair” lists on the internet so I’m not going to go into that. But you can’t go wrong by starting with [Herman Miller](https://www.hermanmiller.com/) or [Steelcase](https://www.steelcase.com/) lineup.
 
 Another thing that made a huge improvement in my ergonomics lately is a **standing desk**. You don’t have to go full hipster like I did with [Ergochord](https://ergochord.com), but cycling trough sit/stand position during the day really helps. Not just with my posture and back muscles, but it also helps me think. I avoided this for too long but now I’m writing it here so you won’t.
 
-**Air quality**. I didn’t pay much attention to this for too long. I had super dry air so I had a humidifier for a while, but that’s all I cared about. But a while back I got an [Awair](https://getawair.com/)[^5] and now I keep a close eye on all the other factors like temperature, CO<sub>2</sub>, VOC, and dust levels. You wouldn’t drink dirty water so why would you breathe dirty air? It makes a **tremendous difference** in my ability to *obtain* and *hold* focus.
+**Air quality**. I didn’t pay much attention to this for too long. I had super dry air so I had a humidifier for a while, but that’s all I cared about. But a while back I got an [Awair](https://getawair.com/)[^5] and now I keep a close eye on all the other factors like temperature, CO<sub>2</sub>, VOC, and dust levels. You wouldn’t drink dirty water so why would you breathe dirty air? It makes a **tremendous difference** in my ability to _obtain_ and _hold_ focus.
 
-Last, but certainly not least, **get good hardware**. Now obviously I’m an _Apple fanatic_ and can talk for hours how the *iMac Pro* is hands down the best thing that came out of that company in the past 10 years. Yet you will never hear me say that you should use their keyboards or mice. Especially Magic Mouse should not be used by anyone. It’s everything wrong with Apple in one product: form over function. The only thing that is _magic_ about it is that its usage is detrimental to health and I’m sure is causing RSI issues for a lot of people.
+Last, but certainly not least, **get good hardware**. Now obviously I’m an _Apple fanatic_ and can talk for hours how the _iMac Pro_ is hands down the best thing that came out of that company in the past 10 years. Yet you will never hear me say that you should use their keyboards or mice. Especially Magic Mouse should not be used by anyone. It’s everything wrong with Apple in one product: form over function. The only thing that is _magic_ about it is that its usage is detrimental to health and I’m sure is causing RSI issues for a lot of people.
 
-Same as with chairs you should try out different mice, trackpads, and keyboards. I’m a huge fan of [Logitech MX Master](https://www.logitech.com/en-roeu/product/mx-master-2s-flow) (and MX Revolution before that) but lately I’ve heard a lot of great things about *vertical mice*.
+Same as with chairs you should try out different mice, trackpads, and keyboards. I’m a huge fan of [Logitech MX Master](https://www.logitech.com/en-roeu/product/mx-master-2s-flow) (and MX Revolution before that) but lately I’ve heard a lot of great things about _vertical mice_.
 
-As for keyboards: now that you’re working from home the keyboard noise is no longer an issue so you should get a nice *loud* mechanical clicky keyboard. For me this is [Planck](https://olkb.com/planck/) with *Cherry MX Green* switches, but you should find one (or more) that suit you best.
+As for keyboards: now that you’re working from home the keyboard noise is no longer an issue so you should get a nice _loud_ mechanical clicky keyboard. For me this is [Planck](https://olkb.com/planck/) with _Cherry MX Green_ switches, but you should find one (or more) that suit you best.
 
 Oh and if it wasn’t clear - get as good of a display as possible. Your eyes will thank you and you will feel less tired after a full workday.
 
@@ -67,13 +67,13 @@ Oh and if it wasn’t clear - get as good of a display as possible. Your eyes wi
 
 ## Downsides
 
-Like every single thing remote work has its downsides as well. They come in different poison bottles depending on how you approach it. If you decide to work from *cafés* or *coworking* spaces interruptions will still very much be a part of your life. Less so and in different flavors but it’s no calm space. You’ll probably still need noise cancelling headphones. And if you work from home there’s a different beast that awaits you: **cabin fever**.
+Like every single thing remote work has its downsides as well. They come in different poison bottles depending on how you approach it. If you decide to work from _cafés_ or _coworking_ spaces interruptions will still very much be a part of your life. Less so and in different flavors but it’s no calm space. You’ll probably still need noise cancelling headphones. And if you work from home there’s a different beast that awaits you: **cabin fever**.
 
 > Hell might be other people, but isolation sure ain’t heaven.[^6]
 
-Even though everyone will always be just a click away on Slack[^7] it’ll still feel **lonely**. We humans are designed to interact in the *real world*. So join meetups, proactively hang out with friends, organize a picnic for your neighbors, go be a patron to that coworking space. Do something *good for the community* while at the same time *helping yourself not go crazy* of solitude.
+Even though everyone will always be just a click away on Slack[^7] it’ll still feel **lonely**. We humans are designed to interact in the _real world_. So join meetups, proactively hang out with friends, organize a picnic for your neighbors, go be a patron to that coworking space. Do something _good for the community_ while at the same time _helping yourself not go crazy_ of solitude.
 
-Another thing is that when you work from home you’re not moving much. You can easily spend the *entire day* without leaving your cozy apartment. While that sounds like a *dream* to many it’s not so great for your *health*. So [start running](https://mr.si/posts/2017/08/20/running-gear/), sign up for gym, go do yoga, **anything**. Use the time you’d normally spend commuting for exercising. Your body will thank you.
+Another thing is that when you work from home you’re not moving much. You can easily spend the _entire day_ without leaving your cozy apartment. While that sounds like a _dream_ to many it’s not so great for your _health_. So [start running](https://mr.si/posts/2017/08/20/running-gear/), sign up for gym, go do yoga, **anything**. Use the time you’d normally spend commuting for exercising. Your body will thank you.
 
 ## Epilog
 

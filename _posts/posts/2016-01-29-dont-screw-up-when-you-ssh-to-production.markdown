@@ -17,7 +17,7 @@ I'm guessing the answer is **yes** and not just once otherwise you wouldn't be r
 
 Notice that the tab and profile color change the moment I `ssh` to the server. And it automagically goes away as soon as I exit it. Isn't this awesome?
 
-I'm on a Mac using the fantastic [iTerm2](anything and everything that has textboxes) with [oh-my-zsh](http://ohmyz.sh/) but with a bit of *googling* you can modify the following script to work for your setup as well.
+I'm on a Mac using the fantastic [iTerm2](anything and everything that has textboxes) with [oh-my-zsh](http://ohmyz.sh/) but with a bit of _googling_ you can modify the following script to work for your setup as well.
 
 <script src="https://gist.github.com/miharekar/c6072e4fede3a6fe0f6b.js"></script>
 

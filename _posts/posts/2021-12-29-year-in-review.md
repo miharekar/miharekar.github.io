@@ -3,7 +3,7 @@ layout: post
 category: posts
 title: "2021: Year in Review"
 excerpt: "It's weird to write this in the middle of a pandemic, but I somehow feel this was the best year yet. 🥰"
-tags: [wrap-up, review, photography, leica, drone, dji, podcast, books, reading, goodreads, running,  marathon, coffee, decent, visualizer]
+tags: [wrap-up, review, photography, leica, drone, dji, podcast, books, reading, goodreads, running, marathon, coffee, decent, visualizer]
 comments: true
 image:
   feature: features/miha-rekar-iceland-volcano.jpg
@@ -59,7 +59,7 @@ Then I drove up to Plitvice lakes. I've wanted to visit this place so many times
   <a href="https://www.instagram.com/p/CReLeQfl3yK/"><img src="/images/posts/2021-12-29/plitvice_pathway.jpg" title="Pathway through Plitvice lakes"></a>
 </figure>
 
-And just a couple of days ago, I had an opportunity to experience another new thing. As you know, I'm absolutely in love with my Leica Q2. Which, of course, makes me lust over its older cousin M. Now, if you don't know anything about [Leica M-series](https://en.wikipedia.org/wiki/Leica_Camera#M-series_rangefinder), here's a short description: they're rangefinder cameras that are very expensive, offer fantastic compact lenses with no autofocus, and have a cult following. They have changed dramatically little since the first model was introduced in 1954. Yes, they went digital in 2006, but other than that, you really have to be in the know to tell the models apart. Leica sometimes goes the extra mile with this - in 2016, they introduced [M-D](https://en.wikipedia.org/wiki/Leica_M-D_(Typ_262)), which has no back screen. Yes, really. A digital camera with no screen. For that _authentic_ film experience. 😅
+And just a couple of days ago, I had an opportunity to experience another new thing. As you know, I'm absolutely in love with my Leica Q2. Which, of course, makes me lust over its older cousin M. Now, if you don't know anything about [Leica M-series](https://en.wikipedia.org/wiki/Leica_Camera#M-series_rangefinder), here's a short description: they're rangefinder cameras that are very expensive, offer fantastic compact lenses with no autofocus, and have a cult following. They have changed dramatically little since the first model was introduced in 1954. Yes, they went digital in 2006, but other than that, you really have to be in the know to tell the models apart. Leica sometimes goes the extra mile with this - in 2016, they introduced [M-D](<https://en.wikipedia.org/wiki/Leica_M-D_(Typ_262)>), which has no back screen. Yes, really. A digital camera with no screen. For that _authentic_ film experience. 😅
 
 I've never held or used an M camera or any other [rangefinder camera](https://en.wikipedia.org/wiki/Rangefinder_camera). However, through the years of owning Q2, I connected with [Nico](https://www.instagram.com/koehlernico/), who works at Leica. He was in Zagreb and was extremely nice - he let me take his M for a spin around the town. I can now completely understand why so many people are obsessed with it. It's a different kind of beast. It forces its workflow on you, and because of that, you take very different photos than you usually would. It's hard to explain and out of the scope of this blog post, really. But suffice to say that I was simultaneously blown away and convinced it's not the camera for me. Which was both exciting and disappointing. 😂
 
@@ -71,7 +71,7 @@ I've never held or used an M camera or any other [rangefinder camera](https://en
 
 ## The New Normal
 
-There's no way around discussing this, is it? Remember when we thought it would last only a couple of weeks or months?  I've put [my podcast on a _temporary_ pause](https://mr.si/posts/2020/12/29/2020-year-in-review/#podcasting) because I thought I'd be able to avoid the topic. And when the summer was starting, I believed again we were through the worst. They brought the [Ment festival](https://www.ment.si) back, and it was the first time I went out to a concert again. I don't like crowds. I don't like the feeling of being squeezed in by other people. But take that away for over a year, and damn did I start to miss it. Live music was back. Life was back. [It was incredible](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTUxNzIzNTEyNDU4MjYy?story_media_id=2587710927106727424). 🥳
+There's no way around discussing this, is it? Remember when we thought it would last only a couple of weeks or months? I've put [my podcast on a _temporary_ pause](https://mr.si/posts/2020/12/29/2020-year-in-review/#podcasting) because I thought I'd be able to avoid the topic. And when the summer was starting, I believed again we were through the worst. They brought the [Ment festival](https://www.ment.si) back, and it was the first time I went out to a concert again. I don't like crowds. I don't like the feeling of being squeezed in by other people. But take that away for over a year, and damn did I start to miss it. Live music was back. Life was back. [It was incredible](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTUxNzIzNTEyNDU4MjYy?story_media_id=2587710927106727424). 🥳
 
 ## Reading
 

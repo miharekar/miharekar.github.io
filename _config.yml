@@ -17,6 +17,7 @@ plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-target-blank
 
 kramdown:
   auto_ids: true

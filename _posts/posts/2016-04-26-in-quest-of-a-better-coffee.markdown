@@ -7,11 +7,11 @@ tags: [coffee, aeropress, portland, espresso, baratza]
 comments: true
 ---
 
-Today when I opened up *On This Day*[^1] I saw a memory of a life-changing event from 3 years ago. Before that time I was getting my caffeine high from Chinese teas[^2] but on 26th of April 2013 *everything changed*.
+Today when I opened up _On This Day_[^1] I saw a memory of a life-changing event from 3 years ago. Before that time I was getting my caffeine high from Chinese teas[^2] but on 26th of April 2013 _everything changed_.
 
-I was meandering around Portland and I still vividly remember walking into [Courier Coffee](http://www.couriercoffeeroasters.com/). It was a *hole in a wall* kind of coffee shop, but it had a great rating on Foursquare. I ordered a double shot latte.
+I was meandering around Portland and I still vividly remember walking into [Courier Coffee](http://www.couriercoffeeroasters.com/). It was a _hole in a wall_ kind of coffee shop, but it had a great rating on Foursquare. I ordered a double shot latte.
 
-After the first sip my mind was blown - *this is what coffee is supposed to taste like*? I've never experienced flavors like that. Coffee is **bitter** and **dark** - not **sweet** and **flavorful**.
+After the first sip my mind was blown - _this is what coffee is supposed to taste like_? I've never experienced flavors like that. Coffee is **bitter** and **dark** - not **sweet** and **flavorful**.
 
 **WHAT IS THIS SORCERY**?
 
@@ -21,15 +21,15 @@ After the first sip my mind was blown - *this is what coffee is supposed to tast
   </a>
 </figure>
 
-Ever since that moment I've been going from one coffee place to another. And no matter where I went I  couldn't believe all the flavors my tongue was being bombarded with. Citrusy, nutty, berrylike, chocolaty,…the list went on and on.
+Ever since that moment I've been going from one coffee place to another. And no matter where I went I couldn't believe all the flavors my tongue was being bombarded with. Citrusy, nutty, berrylike, chocolaty,…the list went on and on.
 
 I got so used to ordering espresso that when I was waiting for my flight home at the Schiphol airport I ordered one. That was a blast back to reality.
 
-Back home I went from one café to another, but no matter where I went - bitter and dark was there. So called *3rd wave coffee* was nowhere to be found. Mind you - **Slovenia** is #4 country on coffee consumption per capita in the world[^3]. You'd think we'd know how to make our coffee. Unfortunately that is not the case.
+Back home I went from one café to another, but no matter where I went - bitter and dark was there. So called _3rd wave coffee_ was nowhere to be found. Mind you - **Slovenia** is #4 country on coffee consumption per capita in the world[^3]. You'd think we'd know how to make our coffee. Unfortunately that is not the case.
 
 The majority of people buy pre-ground coffee blends of questionable origins. The drink is usually made with džezva[^4] where they add coffee to boiling water and let it boil over 3 times. Now you know why it's so bitter.
 
-And don't think that you can get anything better in cafés. They use Italian roasted[^5] blends of questionable origins. If you're in luck they're by *famous* brands like Illy, Julius Meinl, or Lavazza. It's rarely ground on-demand and espresso machine hygiene is non-existent. Consequently the resulting cup of joe is bitter and has burnt, almost ashy taste. Of course you can't drink that as an espresso, which is why by far the most popular drink here is "z mlekom"[^6].
+And don't think that you can get anything better in cafés. They use Italian roasted[^5] blends of questionable origins. If you're in luck they're by _famous_ brands like Illy, Julius Meinl, or Lavazza. It's rarely ground on-demand and espresso machine hygiene is non-existent. Consequently the resulting cup of joe is bitter and has burnt, almost ashy taste. Of course you can't drink that as an espresso, which is why by far the most popular drink here is "z mlekom"[^6].
 
 I slowly forgot about the amazing experience until I went to [ArrrrCamp](http://arrrrcamp.be) in 2014. There I walked into [Or Espresso Bar](https://www.orcoffee.be/) by accident. And what a happy accident it was - with the first sip I was back in Portland. Damn, I missed this.
 
@@ -47,7 +47,7 @@ Next gizmo was the grinder. All I knew about grinders back then was that they sh
 
 The final step in preparing good coffee are good beans. Around that time I discovered we have a micro roastery in Slovenia - [Escobar](http://www.escobar.si/). I started purchasing their beans and home coffee quality went through the roof[^8].
 
-Soon thereafter I became aware of the grind inconsistencies so I've upgraded to [Baratza Encore](http://www.baratza.com/grinder/encore/). I loved that grinder but when I got a great deal on [Baratza Virtuoso](http://www.baratza.com/grinder/virtuoso/) I couldn't resist. After a while I also got [Brewista](http://brewista.eu/) Smart Scale and Smart Kettle. Not because I *needed* to, but because I *wanted* to.
+Soon thereafter I became aware of the grind inconsistencies so I've upgraded to [Baratza Encore](http://www.baratza.com/grinder/encore/). I loved that grinder but when I got a great deal on [Baratza Virtuoso](http://www.baratza.com/grinder/virtuoso/) I couldn't resist. After a while I also got [Brewista](http://brewista.eu/) Smart Scale and Smart Kettle. Not because I _needed_ to, but because I _wanted_ to.
 
 <figure>
   <a href="https://www.instagram.com/p/96Fek9LC92/">
@@ -59,7 +59,7 @@ That was and is more or less my setup for producing excellent coffee at home. It
 
 As far as the coffee beans go 3rd wave is slowly hitting Slovenia as well. Besides aforementioned Escobar we have [moderna](https://www.facebook.com/kavarnamoderna/), [Buna](http://www.buna.si/), [Iconic](http://www.coffeeiconic.com/), and [Coronini](https://www.facebook.com/Coroninicafe). But the best way to get truly high quality beans is still to order from abroad. My preferred way to do that is [The Coffee Roasters](https://thecoffeeroasters.co.uk/?ref=miha.rekar) coffee subscription. It's completely personalized and the flavors coffee can deliver blow me away almost every month.
 
-You know how above I said that I have "more or less" the same setup today? There was one notable addition to the setup lately and it changed everything. *Again*. Here's a hint:
+You know how above I said that I have "more or less" the same setup today? There was one notable addition to the setup lately and it changed everything. _Again_. Here's a hint:
 
 <figure>
   <a href="https://www.instagram.com/p/BB4_X-9rC0k/">
@@ -69,7 +69,7 @@ You know how above I said that I have "more or less" the same setup today? There
 
 Yup, I got an espresso machine. I wanted to get one ever since I had that first sip of coffee in Portland and was unable to get similar coffee in Slovenia. I've read countless forum posts, watched way too many YouTube videos[^9], and finally settled on [Izzo Alex Duetto](http://www.alexduetto.com/). Main reasons being dual boiler system, PID, rotary pump, E61 group, and relative affordability. If these words don't mean anything to you, don't worry. I've been living in a coffee forum bubble where this is all that matters.
 
-Making an espresso is **much harder** than Aeropress or any other method. So many things can go wrong, so many variables must be *just right*. I've spent a lot of time on YouTube again, and I have to thank [European Coffee Trip](http://europeancoffeetrip.com/) for the fantastic [Learn Coffee with Gwilym](https://youtu.be/DdGKesjMMxg?list=PLtil0MLa0-7vNg_ovLcSHDT1O0pbCPuPM) series.
+Making an espresso is **much harder** than Aeropress or any other method. So many things can go wrong, so many variables must be _just right_. I've spent a lot of time on YouTube again, and I have to thank [European Coffee Trip](http://europeancoffeetrip.com/) for the fantastic [Learn Coffee with Gwilym](https://youtu.be/DdGKesjMMxg?list=PLtil0MLa0-7vNg_ovLcSHDT1O0pbCPuPM) series.
 
 Anyway I now make a decent espresso and a good latte and I still have much to learn. It's not yet at Portland level, but I'm way beyond anything I can get in any local cafe. I love it.
 
