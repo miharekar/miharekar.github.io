@@ -7,7 +7,7 @@ tags: [rails, email-marketing, list-unsubscribe, postmark, amazon-ses, token-gen
 comments: true
 ---
 
-I don't often post development content on this blog post, because most of the interesting Ruby work I do happens on [Visualizer](https://visualizer.coffee), and I have a [separate blog there](https://visualizer.coffee/updates). Sometimes I write [guest posts](https://radanskoric.com/guest-articles/pagy-out-turbo-in), but this time no other place seems to fit. I recently needed to migrate [European Coffee Trip Business](https://business.europeancoffeetrip.com/) from the very bare-bones Amazon SES to [Postmark](https://postmarkapp.com/) and I made some interesting decisions to make it work, so I thought it would be valuable to share it, and here we are.
+I don't often post development content on this blog post, because most of the interesting Ruby work I do happens on [Visualizer](https://visualizer.coffee), and I have a [separate blog there](https://visualizer.coffee/updates). Sometimes I write [guest posts](https://radanskoric.com/guest-articles/pagy-out-turbo-in), but this time no other place seems to fit. I recently needed to migrate [European Coffee Trip Business](https://business.europeancoffeetrip.com/) from the very bare-bones Amazon SES to [Postmark](https://postmarkapp.com/) and I made some interesting decisions to make it work, so I thought it would be valuable to share it, and here we are. 👋
 
 The first thing that is different about Postmark is that they differentiate between different [_message streams_](https://postmarkapp.com/message-streams). Basically, they want you to separate your **transactional** emails from your **broadcast** emails. The idea is that transactional emails are things like password resets, order confirmations, etc. and they should be sent immediately and have a very high deliverability. On the other hand, broadcast emails are things like newsletters, marketing emails, etc. and they can be sent in batches and can have a lower deliverability.
 
@@ -152,9 +152,9 @@ Now I had all the parts in place and I can add the List-Unsubscribe headers to t
   end
 ```
 
-And that's it! Now I have a very simple way to add List-Unsubscribe headers to my emails, and users can unsubscribe from specific notifications with a single click from their email clients. No new tables, no new columns, no new message streams, no new complicated logic. Just a few lines of code extending the existing Rails 7.1 functionality.
+And that's it! Now I have a very simple way to add List-Unsubscribe headers to my emails, and users can unsubscribe from specific notifications with a single click from their email clients. No new tables, no new columns, no new message streams, no new complicated logic. Just a few lines of code extending the existing Rails 7.1 functionality. ✨
 
-And when I want to add a new notification, or convert an existing email to a notification, I simply add it to the `ALL_EMAIL_NOTIFICATIONS` constant, and I'm done. No need to worry about creating new message streams, or adding new tokens, or anything else. It's all taken care of _automagically_.
+And when I want to add a new notification, or convert an existing email to a notification, I simply add it to the `ALL_EMAIL_NOTIFICATIONS` constant, and I'm done. No need to worry about creating new message streams, or adding new tokens, or anything else. It's all taken care of _automagically_. 🪄
 
 I hope you found this interesting, and maybe it even helps you with your own email setup. If you have any questions, feel free to ask in the comments below or reach out by email.
 
