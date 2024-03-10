@@ -98,7 +98,9 @@ def performed?
 end
 ```
 
-Then there's some complex metaprogramming in `Active Support::Callbacks` that I really don't want to go into, but from the _terminator_ naming, you can understand that as soon as it is _truthy_ the callback chain will terminate. So when we set `response_body` to anything, **no other callbacks or actions are executed**. Thus, the email is not sent.
+Then there's some complex metaprogramming in `Active Support::Callbacks` that I really don't want to go into, but from the _terminator_ naming, you can understand that as soon as it is _truthy_ the callback chain will _terminate_.
+
+So, when we set `response_body` to anything, **no other callbacks or actions are executed**. Thus, the email is not sent.
 
 ## Postmark Message Streams
 
