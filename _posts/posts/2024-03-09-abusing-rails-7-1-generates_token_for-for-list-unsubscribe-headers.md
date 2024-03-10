@@ -126,7 +126,7 @@ Upon reading the RFCs, and Google's requirements it became clear that I needed t
 
 It's a very simple method that you can use to generate a token for a specific purpose like password reset or email confirmation. So you can generate a token for a record, and then later retrieve that record via the token. But you can't _store_ anything extra. And I would need to reference the notification name in the token. I could use a different _purpose_ for each notification, but that seemed like an overkill. I decided to read through the Rails codebase, and see what I could do.
 
-## Extending Existing Functionality
+## Extending Existing Rails Functionality
 
 I decided to borrow from existing code, and add a bit to it. I defined a single token purpose with `generates_token_for :unsubscribe`. Then I added this instance method:
 
@@ -166,7 +166,9 @@ def unsubscribe
 end
 ```
 
-Now I had all the parts in place and I can add the List-Unsubscribe headers to the emails. Since I only need these for notification emails, I can simply extend the previously explained `check_notification` method:
+## Adding List-Unsubscribe Headers to Broadcast Emails
+
+I had all the parts in place and I can add the List-Unsubscribe headers to the emails. Since I only need these for notification emails, I can simply extend the previously explained `check_notification` method:
 
 ```ruby
 def check_notification
