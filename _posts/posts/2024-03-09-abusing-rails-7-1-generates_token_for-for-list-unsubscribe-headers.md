@@ -80,7 +80,7 @@ So, when a mailer is about to send an email, it first checks if it's a notificat
 
 ## A Brief Aside
 
-You might be wondering if `:do_not_deliver` is some special Rails magic symbol. It's not. You could return `:please_deliver` or `:foobar` and it would still **not** be delivered. The reason is that the `response_body` is set to anything, the email is not sent. So how does that work?
+You might be wondering if `:do_not_deliver` is some special Rails magic symbol. It's not. You could return `:please_deliver` or `:foobar` and it would still **not** be delivered. The reason is that if the `response_body` is set to _anything_, the email will not be sent. So how does that work?
 
 Callbacks for mailers are implemented using `AbstractController::Callbacks` that have a [`performed?` terminator lambda](https://github.com/rails/rails/blob/029d31ca31ab72df7bb79372f4ff057231fd0196/actionpack/lib/abstract_controller/callbacks.rb#L34):
 
