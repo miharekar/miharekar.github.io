@@ -1,7 +1,7 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
 gem "webrick"
 gem "csv"
 gem "jekyll"
-gem 'jekyll-target-blank'
+gem "jekyll-target-blank"
 gem "github-pages"
