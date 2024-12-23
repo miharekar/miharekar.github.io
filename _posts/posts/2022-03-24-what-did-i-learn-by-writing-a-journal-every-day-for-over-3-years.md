@@ -2,7 +2,7 @@
 layout: post
 category: posts
 title: What Did I Learn by Writing a Journal Every Day for Over 3 Years?
-excerpt: "The answers will surpsise you!"
+excerpt: "The answers will surprise you!"
 tags: [stoic, philosophy, stoicism, journal, journaling, day one, workflow, shortcuts, ios, ruby, gratitude]
 comments: true
 image:
