@@ -11,7 +11,11 @@ image:
 
 ### Short Bio
 
-I used to be a PHP Developer. Then I saw the light at the end of the tunnel and that light was **Ruby**. I wanted to share this revelation so I started [**Slovenia Ruby User Group**](http://www.rug.si/). When I'm not programming or organizing I like to [podcast](http://parallelpassion.com/), give talks, make coffee, take photos[^1], and run. Not necessarily at once.
+I'm a PHP developer turned Ruby who loves building things that make people's lives better. I'm also the creator of [Visualizer](https://visualizer.coffee), a tool for coffee enthusiasts.
+
+When I'm not coding, you'll find me running marathons, making specialty coffee, taking photos[^1], or writing in my daily journal. Not necessarily at once.
+
+I used to host a [podcast about hobbies that tech people have](http://parallelpassion.com/) and run the [Slovenia Ruby User Group](http://www.rug.si/). The podcast is long dead, but the group is still going strong.
 
 ### Photos[^2]
 
