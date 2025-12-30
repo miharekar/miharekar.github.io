@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: FooBar Rant
 excerpt: I hate FooBar examples. There, I've said it.

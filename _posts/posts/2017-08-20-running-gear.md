@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Running Gear
 excerpt: I often get asked what I run with so why not blog about it

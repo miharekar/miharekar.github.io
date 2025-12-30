@@ -1,12 +1,11 @@
 ---
-layout: post
 category: posts
 title: "2021: Year in Review"
 excerpt: "It's weird to write this in the middle of a pandemic, but I somehow feel this was the best year yet. 🥰"
 tags: [wrap-up, review, photography, leica, drone, dji, podcast, books, reading, goodreads, running, marathon, coffee, decent, visualizer]
 comments: true
-image:
-  feature: features/miha-rekar-iceland-volcano.jpg
+header:
+  image: /images/features/miha-rekar-iceland-volcano.jpg
 ---
 
 The year is over, and it's time for a review. What started as a [simple Instagram story](/images/posts/2021-12-29/2018-review.jpg) in 2018 evolved into a [blog post in 2019](/posts/2019/12/31/2019-year-in-review/) and [became a tradition in 2020](/posts/2020/12/29/2020-year-in-review/). So here we are at the end of 2021. It's weird to write this in the middle of a pandemic, but I somehow feel this was the best year yet. So much has happened. So fast.

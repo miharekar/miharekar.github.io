@@ -1,14 +1,12 @@
 ---
-layout: post
 category: posts
 title: Back Up Your Backups
 excerpt: Can your backups handle a single drive failure? What about two? Three? Four in a span of just over a month?
 tags: [backup, back up, backblaze, hard drives, hdd, failure, support, stoicism]
 comments: true
-image:
-  feature: features/broken-hdd.jpg
-  credit: Markus Spiske
-  creditlink: https://unsplash.com/@markusspiske
+header:
+  image: /images/features/broken-hdd.jpg
+  caption: "Photo: [Markus Spiske](https://unsplash.com/@markusspiske)"
 ---
 
 What’s the most important thing on your computer[^1] right now? A client project? Half written master thesis? Some government document? Pictures of your childhood? Video of your kid learning how to walk? Maybe it’s that one movie you like rewatching over and over again but isn’t available to purchase anymore? Or that one demo song of a band you love when they were just starting out?

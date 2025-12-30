@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Don't Screw up When You SSH to Production
 excerpt: Terminal can help you with colors
@@ -9,7 +8,7 @@ comments: true
 
 Do you `SSH` to production? Do you do it to figure out why a particular bug is happening? Do you mimic same actions locally to narrow that nasty bug down? If so, did you ever do something on the production server that you planned to do on the local one?
 
-I'm guessing the answer is **yes** and not just once otherwise you wouldn't be reading this. If you've been a web developer even for a small amount of time this is a part of life. You've been debugging for a while so you lose focus. At one moment you see that you screwed up and you sweat up like crazy :cold_sweat: After realizing what you've done you can only hope that you didn't do too much damage and that it can all be reverted.
+I'm guessing the answer is **yes** and not just once otherwise you wouldn't be reading this. If you've been a web developer even for a small amount of time this is a part of life. You've been debugging for a while so you lose focus. At one moment you see that you screwed up and you sweat up like crazy 😰 After realizing what you've done you can only hope that you didn't do too much damage and that it can all be reverted.
 
 **But it doesn't have to be like that**. So the last time this happened to me I started looking if there's anything that would visually distinguish which of my tabs is connected to production. I started looking around and found a way to change that tab color. But I also found a way to change the profile automatically. About an hour of copy/pasting and experimenting later and this is what I ended up with:
 

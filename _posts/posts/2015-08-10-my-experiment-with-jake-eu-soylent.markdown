@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: My Experiment With Jake - EU Soylent
 excerpt: I wanted to try soylent for a while now. I did now and here's what I think

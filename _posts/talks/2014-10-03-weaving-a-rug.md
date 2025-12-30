@@ -1,5 +1,4 @@
 ---
-layout: post
 category: talks
 title: Weaving a RUG
 excerpt: Why you should start your own user group

@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Simple Cache When Scraping With Ruby
 excerpt: Use VCR in your scraping development workflow.

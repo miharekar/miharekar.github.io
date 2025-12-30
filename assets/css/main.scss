@@ -1,29 +1,10 @@
 ---
-sitemap: false
+search: false
 ---
 
-/*
- *
- *  Minimal Mistakes
- *
- *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
- *
-*/
+@charset "utf-8";
 
-// Partials
-@import "variables";
-@import "grid";
-@import "mixins";
-@import "normalize";
-@import "site";
-@import "typography";
-@import "pygments";
-@import "coderay";
-@import "elements";
-@import "forms";
-@import "page";
-@import "bigfoot-default";
-@import "vendor/font-awesome/font-awesome";
-@import "vendor/magnific-popup/magnific-popup";
-//@import "vendor/google/fonts";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "custom-variables";
+@import "minimal-mistakes";
+@import "custom";

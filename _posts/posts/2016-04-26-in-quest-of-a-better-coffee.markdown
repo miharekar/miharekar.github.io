@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: In Quest of a Better Coffee
 excerpt: My coffee story - from Portland to Aeropress and eventually home espresso

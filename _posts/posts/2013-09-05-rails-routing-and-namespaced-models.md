@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Rails Routing and Namespaced Models
 excerpt: Namespaces can bite you but they're still nice.

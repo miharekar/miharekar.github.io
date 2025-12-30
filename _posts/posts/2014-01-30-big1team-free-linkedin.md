@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Big1Team Free LinkedIn
 excerpt: You should delete them from your connections.
@@ -39,4 +38,4 @@ The group itself is a regional branch of [bHIP Global](http://bhipglobal.com/). 
 6. Click **Remove**
    [![Remove](https://d23f6h5jpj26xu.cloudfront.net/z8kwyy65vn6q8w_small.png)](http://img.svbtle.com/z8kwyy65vn6q8w.png)
 
-7. Grab a :beer: and **celebrate life**
+7. Grab a 🍺 and **celebrate life**

@@ -1,5 +1,4 @@
 ---
-layout: post
 category: talks
 title: Software Developers Are People Too
 excerpt: I gave a talk about things I like. And yes, I have a podcast too now.

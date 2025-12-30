@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Long Live All the Nations
 excerpt: "Thinking about the Slovenian anthem and national pride"

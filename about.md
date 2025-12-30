@@ -1,12 +1,24 @@
 ---
-layout: page
 title: About Me
 tags: [about, miha rekar, photos]
 share: false
-image:
-  feature: features/nicky-romero.jpg
-  credit: Miha Rekar - Nicky Romero @ Ultra 2014
-  creditlink: https://mr.si/
+author_profile: true
+header:
+  image: /images/features/nicky-romero.jpg
+  caption: "Photo: [Miha Rekar - Nicky Romero @ Ultra 2014](https://mr.si/)"
+gallery:
+  - url: /images/me/blogorola1.jpg
+    image_path: /images/me/small/blogorola1.jpg
+    alt: "Blogorola portrait 1"
+  - url: /images/me/blogorola2.jpg
+    image_path: /images/me/small/blogorola2.jpg
+    alt: "Blogorola portrait 2"
+  - url: /images/me/hello-kitty.jpg
+    image_path: /images/me/small/hello-kitty.jpg
+    alt: "Hello Kitty portrait"
+  - url: /images/me/ross-conf.jpg
+    image_path: /images/me/small/ross-conf.jpg
+    alt: "Conference portrait"
 ---
 
 ### Short Bio
@@ -19,17 +31,7 @@ I used to host a [podcast about hobbies that tech people have](http://parallelpa
 
 ### Photos[^2]
 
-<figure class="forth">
-  <a href="/images/me/blogorola1.jpg"><img src="/images/me/small/blogorola1.jpg"></a>
-  <a href="/images/me/blogorola2.jpg"><img src="/images/me/small/blogorola2.jpg"></a>
-  <a href="/images/me/hello-kitty.jpg"><img src="/images/me/small/hello-kitty.jpg"></a>
-  <a href="/images/me/ross-conf.jpg"><img src="/images/me/small/ross-conf.jpg"></a>
-  <figcaption>
-    © <a href="http://martalamovsek.com/">Marta Lamovšek</a> [1, 2] |
-    © Tjaša Klavora [3] |
-    © <a href="http://www.dreama.tv/">Manuel Gruber</a> [4]
-  </figcaption>
-</figure>
+{% include gallery layout="half" caption="© [Marta Lamovšek](http://martalamovsek.com/) [1, 2] | © Tjaša Klavora [3] | © [Manuel Gruber](http://www.dreama.tv/) [4]" %}
 
 ---
 

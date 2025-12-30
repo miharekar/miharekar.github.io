@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: 167 Days of Jaybird Support
 excerpt: How not to do your product support

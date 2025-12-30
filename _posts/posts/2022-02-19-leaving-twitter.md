@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: "Leaving Twitter"
 excerpt: "Maybe it's time for me to leave Twitter?"

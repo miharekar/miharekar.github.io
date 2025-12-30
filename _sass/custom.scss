@@ -1,0 +1,76 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1;
+}
+
+.littlefoot {
+  --button-background-color: transparent;
+  --button-text-color: #{$link-color};
+  --button-active-background-color: #{$link-color};
+  --button-active-text-color: #{$background-color};
+  --button-border: 1px solid #{$border-color};
+  --button-border-radius: 999px;
+  --button-font-size: #{$type-size-7};
+  --button-font-weight: 600;
+  --button-height: 0.9rem;
+  --button-padding: 0 0.35rem;
+  --button-margin: 0 0.15rem;
+  --button-transition: none;
+  --popover-background-color: #{$background-color};
+  --popover-text-color: #{$text-color};
+  --popover-border: 1px solid #{$border-color};
+  --popover-border-radius: #{$border-radius};
+  --popover-font-family: #{$global-font-family};
+  --popover-font-size: #{$type-size-6};
+  --popover-line-height: 1.6;
+  --popover-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+  --popover-transition: none;
+  --popover-width: 22em;
+  --popover-max-width: 92%;
+  --popover-tooltip-size: 0.45rem;
+  --popover-scroll-indicator-color: #{$muted-text-color};
+  --popover-z-index: 2000;
+}
+
+.littlefoot__button {
+  letter-spacing: 0.02em;
+  vertical-align: super;
+}
+
+.littlefoot__button-number {
+  display: inline-block;
+  line-height: 1;
+}
+
+.littlefoot__content p {
+  margin: 0 0 0.6em;
+}
+
+.littlefoot__content p:last-child {
+  margin-bottom: 0;
+}
+
+.author__avatar img {
+  width: 9rem;
+  height: 9rem;
+  max-width: 9rem;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  border: 0;
+  box-shadow: none;
+}
+
+.sidebar,
+.sidebar__right {
+  opacity: 1;
+}
+
+.sidebar:hover,
+.sidebar__right:hover {
+  opacity: 1;
+}

@@ -1,14 +1,12 @@
 ---
-layout: post
 category: posts
 title: What Did I Learn by Writing a Journal Every Day for Over 3 Years?
 excerpt: "The answers will surprise you!"
 tags: [stoic, philosophy, stoicism, journal, journaling, day one, workflow, shortcuts, ios, ruby, gratitude]
 comments: true
-image:
-  feature: features/journal.jpg
-  credit: Gabrielle Henderson
-  creditlink: https://unsplash.com/@gabriellefaithhenderson
+header:
+  image: /images/features/journal.jpg
+  caption: "Photo: [Gabrielle Henderson](https://unsplash.com/@gabriellefaithhenderson)"
 ---
 
 Whenever I meet new people, and somehow the conversation meanders to keeping a journal, I always get the same reaction: surprise. Followed by a question that is also always the same, but it comes in two distinct flavors:

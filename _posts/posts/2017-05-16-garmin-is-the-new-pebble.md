@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Garmin is the new Pebble
 excerpt: I found a replacement for Pebble Time and you won't believe what it is
@@ -7,15 +6,15 @@ tags: [pebble, garmin, time, forerunner, fenix, apple, watch, smartwatch, runnin
 comments: true
 ---
 
-I backed _Pebble Time_ on Kickstarter back in February 2015. I was very skeptical but people loved the original Pebble so I decided to give this one a try. I have worn it **every single day** since receiving it in June 2015 and I [loved that thing](/posts/2015/06/16/pebble-time-ismoothrun-ftw/). I was super excited when Pebble announced the Time 2. It would fix the only 2 pain points I had with Time - small screen and a lack of a heart rate monitor. I backed it without hesitation. But, as you know, all that **went tits up** when [Fitbit acquired Pebble](https://blog.getpebble.com/2016/12/07/fitbit/). :sob:
+I backed _Pebble Time_ on Kickstarter back in February 2015. I was very skeptical but people loved the original Pebble so I decided to give this one a try. I have worn it **every single day** since receiving it in June 2015 and I [loved that thing](/posts/2015/06/16/pebble-time-ismoothrun-ftw/). I was super excited when Pebble announced the Time 2. It would fix the only 2 pain points I had with Time - small screen and a lack of a heart rate monitor. I backed it without hesitation. But, as you know, all that **went tits up** when [Fitbit acquired Pebble](https://blog.getpebble.com/2016/12/07/fitbit/). 😭
 
-So ever since then I was stuck with my original Pebble Time which I still loved. But it was all scratched and the strap showed significant wear and tear. I[^1] was always on the lookout for the _next Pebble_. But there was no real smart watch alternative on the horizon. :disappointed:
+So ever since then I was stuck with my original Pebble Time which I still loved. But it was all scratched and the strap showed significant wear and tear. I[^1] was always on the lookout for the _next Pebble_. But there was no real smart watch alternative on the horizon. 😞
 
-Apple Watch has a display that turns on only when you flick your wrist[^2]. I mean, c'mon. How can you even remotely call that a _watch_ when the screen is turned off most of the time? And less than 1 day of battery life? Absolute **joke**. Not to even mention the touch screen interface. People sweat[^3], you know? :sweat_smile:
+Apple Watch has a display that turns on only when you flick your wrist[^2]. I mean, c'mon. How can you even remotely call that a _watch_ when the screen is turned off most of the time? And less than 1 day of battery life? Absolute **joke**. Not to even mention the touch screen interface. People sweat[^3], you know? 😅
 
 Android Wear does look nice. On the photos. In reality it's a very different story. The materials most manufacturers use are repulsive. Battery life is not great and they don't work that well with an iPhone.
 
-Fitbit Blaze? :joy: Just look at it. Whoever decided to ship that disgusting piece of hardware was clearly blind. And even though they bought Pebble they have [no intentions](https://www.forbes.com/sites/paullamkin/2017/02/20/fitbit-has-zero-interest-in-building-a-pebble-smartwatch/) to build a _true_ smart watch.
+Fitbit Blaze? 😂 Just look at it. Whoever decided to ship that disgusting piece of hardware was clearly blind. And even though they bought Pebble they have [no intentions](https://www.forbes.com/sites/paullamkin/2017/02/20/fitbit-has-zero-interest-in-building-a-pebble-smartwatch/) to build a _true_ smart watch.
 
 <figure class="third">
   <img src="/images/posts/2017-05-16-apple-watch.jpg" title="Apple Watch">
@@ -39,9 +38,9 @@ It's **150€** less and at **49g** almost _half_ the weight. Same battery life.
   <figcaption>fēnix 5S, fēnix 5, and Forerunner 935 aka fēnix 5P.</figcaption>
 </figure>
 
-Being a software developer myself, I naturally wanted to write something for my new watch. I decided to try and port over one of my favorite iOS applications - [Weather Line](http://weatherlineapp.com/). It was not as simple as I'd imagined. I needed to learn the basics of a completely new language called [Monkey C](https://developer.garmin.com/connect-iq/programmers-guide/monkey-c/) :see_no_evil:. It's this weird JavaScript-ish system language that wants you to think that it's high level. You shouldn't treat it as such since you're developing for a device with very limited amount of memory and CPU. I also had to grasp how to find anything in their [API docs](https://developer.garmin.com/connect-iq/api-docs/). They're not bad at all, but they do lack examples. The best thing I had were a couple of sample apps that they include in the SDK.
+Being a software developer myself, I naturally wanted to write something for my new watch. I decided to try and port over one of my favorite iOS applications - [Weather Line](http://weatherlineapp.com/). It was not as simple as I'd imagined. I needed to learn the basics of a completely new language called [Monkey C](https://developer.garmin.com/connect-iq/programmers-guide/monkey-c/) 🙈. It's this weird JavaScript-ish system language that wants you to think that it's high level. You shouldn't treat it as such since you're developing for a device with very limited amount of memory and CPU. I also had to grasp how to find anything in their [API docs](https://developer.garmin.com/connect-iq/api-docs/). They're not bad at all, but they do lack examples. The best thing I had were a couple of sample apps that they include in the SDK.
 
-After much copy/pasting, hacking, and cursing over the weekend I finally made something that worked the way I wanted it to. I submitted it to their app store and on Monday evening it got accepted. :tada:
+After much copy/pasting, hacking, and cursing over the weekend I finally made something that worked the way I wanted it to. I submitted it to their app store and on Monday evening it got accepted. 🎉
 
 <figure>
   <a href="https://apps.garmin.com/en-US/apps/6b9d2d26-d746-4377-830e-83422e3df45b">
@@ -55,7 +54,7 @@ At the time of writing it's out for just under 2 days and it already has over 40
 
 > I'm so happy someone has started developing for Garmin who actually cares about design.
 
-I couldn't have been happier. :blush:
+I couldn't have been happier. 😊
 
 [^1]: and every other Pebble fan
 [^2]: If you're lucky and it registers your intention. Lots of trial and error. Horrible UX.

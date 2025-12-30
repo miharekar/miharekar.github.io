@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: A Decade of Event Photography
 excerpt: Exactly 10 years ago I went to my first ever concert as a photographer.

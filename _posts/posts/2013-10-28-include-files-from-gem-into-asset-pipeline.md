@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Include Files from Gem into Asset Pipeline
 excerpt: Sometimes Asset Pipeline doesn't want to play with you.

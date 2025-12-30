@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: "(Ab)using Rails 7.1's #generates_token_for for List-Unsubscribe Headers"
 excerpt: "How I migrated Business ECT from Amazon SES to Postmark while adding List-Unsubscribe headers by (ab)using Rails 7.1's #generates_token_for."

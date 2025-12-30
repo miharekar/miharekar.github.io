@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Journaling
 excerpt: In order to further practice stoic philosophy I started journaling with Day One and Workflow.

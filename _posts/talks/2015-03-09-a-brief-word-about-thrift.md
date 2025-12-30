@@ -1,5 +1,4 @@
 ---
-layout: post
 category: talks
 title: A Brief Word About Thrift
 excerpt: What is Thrift and how did I use it with Twofishes.

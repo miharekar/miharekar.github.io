@@ -1,65 +1,126 @@
-# Site wide configuration
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+minimal_mistakes_skin: "default"
 
-title: Miha Rekar
-locale: en_US
-url: https://mr.si
-enforce_ssl: mr.si
-
-# Jekyll configuration
-
+# Site Settings
+locale: "en-US"
+title: "Miha Rekar"
+description: "Software Writer. Ex podcaster. Home barista. Runner. Photographer. Aspiring Stoic. Incurably curious."
+url: "https://mr.si"
+baseurl: ""
+repository: "miharekar/miharekar.github.io"
 permalink: pretty
-markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
-plugins:
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-target-blank
 
+search: false
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "miharekar"
+
+og_image: "/images/miha-rekar.jpg"
+
+social:
+  type: "Person"
+  name: "Miha Rekar"
+  links:
+    - "https://github.com/miharekar"
+    - "https://www.linkedin.com/in/miha-rekar"
+    - "https://www.instagram.com/MihaRekar"
+    - "https://visualizer.coffee/"
+
+author:
+  name: "Miha Rekar"
+  avatar: "/images/miha-rekar.jpg"
+  bio: |
+    👨‍💻 Software Writer<br>
+    ☕️ Home Barista<br>
+    🏃 Runner<br>
+    📷 Photographer<br>
+    📖 Aspiring Stoic<br>
+    🦄 Incurably Curious
+  email: "info@mr.si"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/MihaRekar"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/miharekar"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/miha-rekar"
+
+footer:
+  since: "2005"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
 kramdown:
+  input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Site owner
-owner:
-  name: Miha Rekar
-  avatar: miha-rekar.jpg
-  email: info@mr.si
-  disqus-shortname: miharekar
-  google:
-    analytics: UA-356422-1
-    verify:
-    ad-client:
-    ad-slot:
-  github: miharekar
-  linkedin: miha-rekar
-  instagram: MihaRekar
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
 
-include: [".htaccess"]
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-redirect-from
+
+# Reading Files
+include:
+  - .htaccess
 exclude:
-  [
-    "lib",
-    "config.rb",
-    "Capfile",
-    "config",
-    "log",
-    "Rakefile",
-    "Rakefile.rb",
-    "tmp",
-    "less",
-    "test",
-    "spec",
-    "Gruntfile.js",
-    "package.json",
-    "node_modules",
-    "Gemfile",
-    "Gemfile.lock",
-    "LICENSE",
-    "README.md",
-  ]
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .jekyll-cache
+  - .sass-cache
+  - ._upstream_minimal_mistakes
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - README.md
+  - LICENSE
+  - tmp
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

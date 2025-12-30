@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: So you want to work remotely, huh?
 excerpt: Why would you start working remotely and how would you do it

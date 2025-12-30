@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Two-Factor Authentication FTW
 excerpt: You know you should use it!

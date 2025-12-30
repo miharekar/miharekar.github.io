@@ -1,5 +1,4 @@
 ---
-layout: post
 category: talks
 title: Neo4j WTF Is This Hipster Graph Thingy?
 excerpt: What is Neo4j and why should you use it.

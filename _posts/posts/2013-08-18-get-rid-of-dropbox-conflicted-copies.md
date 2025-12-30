@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: Get Rid of Dropbox Conflicted Copies
 excerpt: They can be such a pain in the ass.

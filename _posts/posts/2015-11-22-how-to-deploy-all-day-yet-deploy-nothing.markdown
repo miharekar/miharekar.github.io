@@ -1,5 +1,4 @@
 ---
-layout: post
 category: posts
 title: How to Deploy All Day yet Deploy Nothing
 excerpt: Docker is not as easy as they would have you believe
@@ -37,7 +36,7 @@ Wooo, app starts now, I see the app error on the world wide web. I know this err
 
 Fine, I'll create the db in RDS and just link it in eb…nope, doesn't work. Gah! But they say `eb` is smart enough to do this _when creating a new environment_. I know the drill by now - delete the env, wait, create env with `--database.engine postgres`, wait, wait, wait, done.
 
-App still errors :confused:. So there goes another 30 mins of googling to figure out how to `ssh` to eb so I can `ssh` to running docker container so I can `tail -f`. _Inception_.
+App still errors 😕. So there goes another 30 mins of googling to figure out how to `ssh` to eb so I can `ssh` to running docker container so I can `tail -f`. _Inception_.
 
 Ah, it didn't run migrations. I did read in a post somewhere that it should do this by itself so it must have been true. Ah, that only applies to _eb rails_, not _eb docker_. Got it.
 
@@ -51,7 +50,7 @@ That's too early as well. There is an answer by an [aws employee](https://forums
 
 A bit more googling and I end up with `(test -f /tmp/is_leader && bundle exec rake db:migrate) ; bundle exec puma -C config/puma.rb`. _Simple_, right? Yeah, I don't think so either.
 
-Anyway, let's `eb deploy` again. Health OK, migrations run, app shows up, wooooo :tada:. But, wait…where are the **assets**? I _know_ bower ran, I _know_ `rake assets:precompile` ran, so WTF!?
+Anyway, let's `eb deploy` again. Health OK, migrations run, app shows up, wooooo 🎉. But, wait…where are the **assets**? I _know_ bower ran, I _know_ `rake assets:precompile` ran, so WTF!?
 
 Again `eb ssh`, `docker ps`, `sudo docker exec -i -t [container_id] bash`[^3], `cd app/public`. Yup, they're there. Must be something…aaah, `nginx` is not serving them. FFFFFFFUUU…
 
@@ -81,5 +80,5 @@ And let's not even go into how confusing AWS console UI is. Yes they offer a ton
 
 [^1]: in my humble opinion
 [^2]: seriously, [Homebrew](http://brew.sh/) is **the shit**
-[^3]: you would think they would have something like `docker ssh [container_id]`, right? I mean, everybody needs this :confused:
+[^3]: you would think they would have something like `docker ssh [container_id]`, right? I mean, everybody needs this 😕
 [^4]: [This is Why Learning Rails is Hard](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)

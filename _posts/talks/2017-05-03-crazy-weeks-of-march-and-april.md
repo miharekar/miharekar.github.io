@@ -1,5 +1,4 @@
 ---
-layout: post
 category: talks
 title: Crazy Weeks of March and April
 excerpt: 🚗🇭🇷🚗🇨🇿☕️🚗🇵🇱☕️🍻🚗🇸🇮🏃🇮🇹✈️🇧🇾🗣✈️🇬🇧☕️✈️🇸🇮🍻
@@ -9,7 +8,7 @@ comments: true
 
 I don't write enough blog posts and I should work on that. But at least this time I have a good excuse - events. **SO MANY EVENTS**. And not one free weekend.
 
-So let me :warning: warn :warning: you - this is going to be a long post.
+So let me ⚠️ warn ⚠️ you - this is going to be a long post.
 
 ## Zagreb - March 11th
 
@@ -49,7 +48,7 @@ The real reason we picked Wrocław as a place to meet was the [wroc_love.rb](htt
 
 ## Little Karst Marathon (Mali kraški maraton) - March 26th
 
-The next weekend I drove to the West of our small country[^7] for the first half marathon race of the season. [MKM](http://www.kraskimaraton.si/)[^8] is the traditional running season start event. The course is rather hilly[^9] and this year it was extremely windy as well. However the winter trainings paid off - I [ran my personal best](http://smashrun.com/mrfoto/run/8034810): **1:39:14**. :beers:
+The next weekend I drove to the West of our small country[^7] for the first half marathon race of the season. [MKM](http://www.kraskimaraton.si/)[^8] is the traditional running season start event. The course is rather hilly[^9] and this year it was extremely windy as well. However the winter trainings paid off - I [ran my personal best](http://smashrun.com/mrfoto/run/8034810): **1:39:14**. 🍻
 
 <figure class="third">
   <img src="/images/posts/2017-05-03-course.jpg" title="Around 18km">
@@ -111,7 +110,7 @@ Anyway, back to the festival. This thing was endless - there were over 250 stall
 
 ## WebCamp Ljubljana - April 22nd
 
-The last crazy weekend was at [WebCamp Ljubljana](http://2017.webcamp.si/). It's a yearly get-together of all the local developers. Every year I look forward to it more and more since I get to see faces I know from the online world but rarely see in the _real world_. Many of us work remotely or in offices all over the world[^16] so we don't get to see each other that often. And on top of that - _[Jure](http://www.jurecuhalev.com/) [& Co.](http://2017.webcamp.si/team/)_ always manage to get great speakers and organize the whole event flawlessly. And this year was no different. The talks were a stark contrast to other conferences I've been to over the past few weeks. Very diverse - not just speaker-wise, but also content-wise. Everything from deep technical talks, _soft_ talks about depression, to LGBTQI+ talk panel. They went above and beyond this year. And I can't wait to see what awaits us next year. :grin:
+The last crazy weekend was at [WebCamp Ljubljana](http://2017.webcamp.si/). It's a yearly get-together of all the local developers. Every year I look forward to it more and more since I get to see faces I know from the online world but rarely see in the _real world_. Many of us work remotely or in offices all over the world[^16] so we don't get to see each other that often. And on top of that - _[Jure](http://www.jurecuhalev.com/) [& Co.](http://2017.webcamp.si/team/)_ always manage to get great speakers and organize the whole event flawlessly. And this year was no different. The talks were a stark contrast to other conferences I've been to over the past few weeks. Very diverse - not just speaker-wise, but also content-wise. Everything from deep technical talks, _soft_ talks about depression, to LGBTQI+ talk panel. They went above and beyond this year. And I can't wait to see what awaits us next year. 😁
 
 <figure class="half">
   <img src="/images/posts/2017-05-03-radan.jpg" title="Radan giving a talk">
@@ -126,10 +125,10 @@ So yeah, crazy weeks indeed. But I had fun, tons of fun. And I've met so many am
 
 [^1]: 125 kW TCT Alfa Romeo Giulietta (2012)
 [^2]: ~920km
-[^3]: exhausting and terrifying :scream:
+[^3]: exhausting and terrifying 😱
 [^4]: overtaking another truck going 79,9 km/h
 [^5]: both figuratively and literally
-[^6]: :us: 5 PM :us:
+[^6]: 🇺🇸 5 PM 🇺🇸
 [^7]: insert a joke about Slovenia being so tiny that one part of the half marathon goes through Italy
 [^8]: as it's commonly referred to
 [^9]: according to my phone I gained 132m of elevation
@@ -137,7 +136,7 @@ So yeah, crazy weeks indeed. But I had fun, tons of fun. And I've met so many am
 [^11]: aka [@headius](https://twitter.com/headius)
 [^12]: aka [@bbatsov](https://twitter.com/bbatsov)
 [^13]: [Slovenia Ruby User Group](http://www.rug.si/)
-[^14]: Use referral code `miha.rekar` to get a discount :wink:
+[^14]: Use referral code `miha.rekar` to get a discount 😉
 [^15]: Emphasis theirs
 [^16]: And we're lazy and unorganized
-[^17]: I know this sounds super cheesy, but I really mean it! :blush:
+[^17]: I know this sounds super cheesy, but I really mean it! 😊
