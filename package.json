@@ -10,13 +10,19 @@
     "url": "https://github.com/mmistakes/minimal-mistakes/issues"
   },
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 24"
+  },
+  "scripts": {
+    "clean": "rimraf assets/js/scripts.min.js",
+    "build": "rimraf assets/js/scripts.min.js && terser assets/js/plugins/*.js assets/js/_*.js -o assets/js/scripts.min.js --compress --mangle",
+    "lint": "eslint \"assets/js/_*.js\"",
+    "watch": "chokidar \"assets/js/plugins/*.js\" \"assets/js/_*.js\" -c \"npm run build\"",
+    "dev": "npm run watch"
   },
   "devDependencies": {
-    "grunt": "~1.5.3",
-    "grunt-contrib-clean": "~2.0.0",
-    "grunt-contrib-jshint": "~3.0.0",
-    "grunt-contrib-uglify": "~5.0.1",
-    "grunt-contrib-watch": "~1.1.0"
+    "chokidar-cli": "^3.0.0",
+    "eslint": "^9.8.0",
+    "rimraf": "^5.0.5",
+    "terser": "^5.30.0"
   }
 }
